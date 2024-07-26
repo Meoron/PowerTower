@@ -1,1 +1,1 @@
-This project use entry point patter. ProjectContext prefab - is a entry point
+This project use entry point patter. Resources/ProjectContext prefab - is a entry point
